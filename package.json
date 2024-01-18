@@ -1,0 +1,38 @@
+{
+  "name": "clnames",
+  "version": "1.0.1",
+  "description": "Concat conditional classnames in your JavaScript project.",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jornatf/clnames.git"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "jest",
+    "build": "npx tsc"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "react",
+    "javascript",
+    "classname",
+    "helper",
+    "node",
+    "nodejs"
+  ],
+  "author": "Jordan",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "@babel/cli": "^7.21.5",
+    "@babel/core": "^7.21.5",
+    "@babel/preset-env": "^7.21.5",
+    "@babel/preset-typescript": "^7.21.5",
+    "typescript": "^5.0.4"
+  }
+}
