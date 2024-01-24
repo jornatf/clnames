@@ -2,7 +2,7 @@
 
 ![Latest Version](https://img.shields.io/github/v/tag/jornatf/clnames?label=version&style=flat-square)
 [![Licence](https://img.shields.io/github/license/jornatf/clnames?label=license&style=flat-square)](LICENCE.md)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/jornatf/clnames/run-tests.yml?branch=master&label=test&style=flat-square)](https://github.com/jornatf/skeleton-npm-package/actions?query=workflow%3Arun-tests+branch%3Amaster)
+[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/jornatf/clnames/run-tests.yml?branch=master&label=test&style=flat-square)](https://github.com/jornatf/clnames/actions?query=workflow%3Arun-tests+branch%3Amaster)
 [![Downloads](https://img.shields.io/npm/dt/clnames?label=downloads&style=flat-square)](https://www.npmjs.com/package/clnames)
 
 **clnames** is a [NPM Package](https://www.npmjs.com/package/clnames) to concat simple and conditional classnames in your JavaScript project.
