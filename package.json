@@ -28,7 +28,7 @@
   "author": "Jordan",
   "license": "MIT",
   "devDependencies": {
-    "jest": "^29.7.0",
+    "jest": "^30.2.0",
     "@babel/cli": "^7.21.5",
     "@babel/core": "^7.21.5",
     "@babel/preset-env": "^7.21.5",
